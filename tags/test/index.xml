@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on Test Project roederXC</title>
+    <title>Test on Test Project roederXC</title>
     <link>https://roederxc.github.io/tags/test/</link>
-    <description>Recent content in test on Test Project roederXC</description>
+    <description>Recent content in Test on Test Project roederXC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2023 07:48:37 +0100</lastBuildDate><atom:link href="https://roederxc.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
@@ -23,6 +23,15 @@ kursiv
 Das finde ich echt lusitg
 im Ernst?
 Das ist auch ein Codeblock Wirklich? Ja sogar mit Einrückung Das ist ein Code snippet: Hugo new post/mein_post.md</description>
+    </item>
+    
+    <item>
+      <title>Testpost</title>
+      <link>https://roederxc.github.io/post/test/testpost/</link>
+      <pubDate>Mon, 23 Jan 2023 11:22:20 +0100</pubDate>
+      
+      <guid>https://roederxc.github.io/post/test/testpost/</guid>
+      <description>Farbe Rot Das ist rote Farbe</description>
     </item>
     
   </channel>

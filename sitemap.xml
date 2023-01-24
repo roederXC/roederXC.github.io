@@ -11,15 +11,25 @@
     <loc>https://roederxc.github.io/tags/tag1/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>https://roederxc.github.io/tags/tag2/</loc>
+    <loc>https://roederxc.github.io/tags/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>https://roederxc.github.io/tags/</loc>
+    <loc>https://roederxc.github.io/tags/test/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
     <loc>https://roederxc.github.io/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>https://roederxc.github.io/categories/</loc>
+    <loc>https://roederxc.github.io/farben/</loc>
+    <lastmod>2023-01-23T11:22:20+01:00</lastmod>
+  </url><url>
+    <loc>https://roederxc.github.io/farben/green/</loc>
+    <lastmod>2023-01-23T11:22:20+01:00</lastmod>
+  </url><url>
+    <loc>https://roederxc.github.io/farben/red/</loc>
+    <lastmod>2023-01-23T11:22:20+01:00</lastmod>
+  </url><url>
+    <loc>https://roederxc.github.io/post/test/testpost/</loc>
+    <lastmod>2023-01-23T11:22:20+01:00</lastmod>
   </url>
 </urlset>
