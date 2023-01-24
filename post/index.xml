@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Test Project roederXC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 07:48:37 +0100</lastBuildDate><atom:link href="https://roederxc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 13:17:38 +0100</lastBuildDate><atom:link href="https://roederxc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menutest</title>
+      <link>https://roederxc.github.io/post/2023/menutest/</link>
+      <pubDate>Tue, 24 Jan 2023 13:17:38 +0100</pubDate>
+      
+      <guid>https://roederxc.github.io/post/2023/menutest/</guid>
+      <description>Menütest This post is only to test if we can add a post to the menu within a tthe post file.</description>
+    </item>
+    
     <item>
       <title>Erster Beitrag</title>
       <link>https://roederxc.github.io/post/2023/01/erster_post/</link>
