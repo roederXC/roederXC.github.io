@@ -5,14 +5,21 @@
     <loc>http://example.org/post/2023/01/erster_post/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
+    <loc>http://example.org/tags/post/</loc>
+    <lastmod>2023-01-24T07:48:37+01:00</lastmod>
+  </url><url>
     <loc>http://example.org/post/</loc>
+    <lastmod>2023-01-24T07:48:37+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2023-01-24T07:48:37+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/test/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
