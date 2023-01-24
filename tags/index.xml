@@ -8,20 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2023 07:48:37 +0100</lastBuildDate><atom:link href="https://roederxc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>post</title>
-      <link>https://roederxc.github.io/tags/post/</link>
+      <title>Tag1</title>
+      <link>https://roederxc.github.io/tags/tag1/</link>
       <pubDate>Tue, 24 Jan 2023 07:48:37 +0100</pubDate>
       
-      <guid>https://roederxc.github.io/tags/post/</guid>
+      <guid>https://roederxc.github.io/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>https://roederxc.github.io/tags/test/</link>
+      <title>Tag2</title>
+      <link>https://roederxc.github.io/tags/tag2/</link>
       <pubDate>Tue, 24 Jan 2023 07:48:37 +0100</pubDate>
       
-      <guid>https://roederxc.github.io/tags/test/</guid>
+      <guid>https://roederxc.github.io/tags/tag2/</guid>
       <description></description>
     </item>
     
