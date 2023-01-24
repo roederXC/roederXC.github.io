@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Test Project roederXC</title>
-    <link>http://example.org/post/</link>
+    <link>https://roederxc.github.io/post/</link>
     <description>Recent content in Posts on Test Project roederXC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 07:48:37 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 07:48:37 +0100</lastBuildDate><atom:link href="https://roederxc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erster Beitrag</title>
-      <link>http://example.org/post/2023/01/erster_post/</link>
+      <link>https://roederxc.github.io/post/2023/01/erster_post/</link>
       <pubDate>Tue, 24 Jan 2023 07:48:37 +0100</pubDate>
       
-      <guid>http://example.org/post/2023/01/erster_post/</guid>
+      <guid>https://roederxc.github.io/post/2023/01/erster_post/</guid>
       <description>Überschrift A very warm welcome to all XC members. Especially for Basi.
 1.Aufzählungen Hier kommen Aufzählungen
 Punkt 1 Punkt 2 Punkt 2.1 Punkt 1 Punkt2 2.Schriftoptionen fett

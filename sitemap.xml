@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/2023/01/erster_post/</loc>
+    <loc>https://roederxc.github.io/post/2023/01/erster_post/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/post/</loc>
+    <loc>https://roederxc.github.io/tags/post/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://roederxc.github.io/post/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://roederxc.github.io/tags/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://roederxc.github.io/tags/test/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://roederxc.github.io/</loc>
     <lastmod>2023-01-24T07:48:37+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://roederxc.github.io/categories/</loc>
   </url>
 </urlset>
