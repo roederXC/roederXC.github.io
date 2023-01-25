@@ -26,12 +26,13 @@ Das ist auch ein Codeblock Wirklich? Ja sogar mit Einrückung Das ist ein Code s
     </item>
     
     <item>
-      <title>Testpost</title>
-      <link>https://roederxc.github.io/2023/testpost/</link>
+      <title>Shortcode</title>
+      <link>https://roederxc.github.io/2023/shortcode/</link>
       <pubDate>Mon, 23 Jan 2023 11:22:20 +0100</pubDate>
       
-      <guid>https://roederxc.github.io/2023/testpost/</guid>
-      <description>Farbe Rot Das ist rote Farbe</description>
+      <guid>https://roederxc.github.io/2023/shortcode/</guid>
+      <description>Farbe Rot Das ist rote Farbe
+more shortcodes -&amp;gt; Here!!!!</description>
     </item>
     
   </channel>
